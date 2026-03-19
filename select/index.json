@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "セレナーデ",
   "base_artist": "なとり",
-  "createdAt": "2026-03-12T16:05:30.546791Z",
+  "createdAt": "2026-03-19T05:12:48.782791Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -147,6 +147,15 @@
       "artist": "なとり",
       "has_synced": false,
       "path": "select/pl_01_セレナーデ_なとり.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "セレナーデ",
+      "artist": "なとり",
+      "has_synced": false,
+      "path": "select/localdb_01_セレナーデ_なとり.txt",
+      "repo_name": "pCgtZuQhv7Y"
     }
   ]
 }
